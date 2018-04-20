@@ -1,5 +1,5 @@
 IMAGE ?= cjimti/k8s-es
-LABEL ?= latest
+LABEL ?= v6.2.3
 
 .PHONY: all
 
